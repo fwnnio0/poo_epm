@@ -27,3 +27,18 @@ class Smartphone:
 
 s26ultra = Smartphone("Samsung", "Verde limón", +527751897762, "Samsung Galaxy S26 Ultra",
                       "Android 16", 256, 16, True, False, 80)
+
+"""
+Atributos                               Objeto (Samsung Galaxy S26 Ultra)
+
+1. Marca                                Samsung Galaxy
+2. Color                                Verde Limón
+3. Número de teléfono                   +527751897762
+4. Módelo                               Samsung Galaxy S26 Ultra
+5. Sistema Operativo                    Android 16
+6. Capacidad de almacenamiento          256 GB
+7. Memoria RAM                          16 GB
+8. Está encendido                       True
+9. Está bloqueado                       False
+10. Porcentaje de batería               80
+"""
