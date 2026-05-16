@@ -28,7 +28,7 @@ acme = Banco(10000, None, None, "ACME 0.1", "ACME", 10000, True, 1000000, "9:00 
              "Verde fosforescente")
 
 """
-Atributo                                Objeto
+Atributo                                Objeto (ACME)
 
 1. No. Clientes                         10000
 2. Seguridad                            None
