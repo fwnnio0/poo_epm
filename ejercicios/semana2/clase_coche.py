@@ -49,3 +49,18 @@ miCoche.acelerar("150km/h")
 miCoche.frenar()
 miCoche.abrirCajuela()
 miCoche.apagar()
+
+"""
+Atributos                           Métodos                     Objeto (Honda)
+
+1. Marca                            1. Encender                 Honda
+2. Color                            2. Apagar                   Azul
+3. Módelo                           3. Acelerar                 Civic
+4. Número de puertas                4. Frenar                   4
+5. Tipo de transmisión              5. Abrir Cajuela            Automática
+6. Número de cilindros                                          4   
+7. Tracción                                                     Delantera
+8. Aire acondicionado                                           True              
+9. Radio                                                        True
+10. Cajuela                                                     True
+"""
