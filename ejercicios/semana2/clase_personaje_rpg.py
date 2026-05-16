@@ -53,3 +53,17 @@ gwen.equiparObjeto("Ore espiritual")
 gwen.atacarEnemigo("Yasuo")
 gwen.decirFrase("El viento lo elige todo")
 gwen.morir
+
+"""
+Atributos                               Métodos                         Objeto (Gwen)
+1. Nombre                               1. Usar Habilidad               Gwen
+2. Vida                                 2. Completar Misión             620
+3. Nivel                                3. Equipar Objeto               1
+4. Fuerza                               4. Atacar Enemigo               75
+5. Velocidad                            5. Decir Frase                  85
+6. Inteligencia                         6. Morir                        90
+7. Tipo de arma                                                         Tijeras Mágicas
+8. Defensa                                                              40
+9. Expericiencia                                                        0
+10. Energía                                                             100
+"""
