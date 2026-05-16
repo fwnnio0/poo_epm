@@ -49,3 +49,18 @@ toyota.acelerar("120km/h")
 toyota.frenar()
 toyota.repostar("Gasolina Magna")
 toyota.apagar()
+
+"""
+Atributos                           Métodos                     Objeto (Toyota)
+
+1. Marca                            1. Encender                 Toyota
+2. Color                            2. Apagar                   Rojo
+3. Módelo                           3. Acelerar                 Corolla
+4. Velocidad máxima                 4. Frenar                   180
+5. Combustible                      5. Repostar                 Gasolina
+6. Número de ruedas                                             4
+7. Capacidad de pasajeros                                       5
+8. Año                                                          2020
+9. Precio                                                       300000
+10. Encendido                                                   False
+"""
