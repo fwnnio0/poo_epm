@@ -56,6 +56,7 @@ gwen.morir
 
 """
 Atributos                               Métodos                         Objeto (Gwen)
+
 1. Nombre                               1. Usar Habilidad               Gwen
 2. Vida                                 2. Completar Misión             620
 3. Nivel                                3. Equipar Objeto               1
