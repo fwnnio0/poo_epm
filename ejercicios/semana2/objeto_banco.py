@@ -28,5 +28,16 @@ acme = Banco(10000, None, None, "ACME 0.1", "ACME", 10000, True, 1000000, "9:00 
              "Verde fosforescente")
 
 """
-fiheufhrer
+Atributo                                Objeto
+
+1. No. Clientes                         10000
+2. Seguridad                            None
+3. Infraestructura                      None
+4. Sistema                              ACME 01
+5. Nombre                               ACME
+6. No. Cajeros                          10000
+7. Fiable                               True
+8. Capital                              1000000
+9. Horario de atención                  9am - 7pm
+10. Color                               Verde fosoforescente
 """
