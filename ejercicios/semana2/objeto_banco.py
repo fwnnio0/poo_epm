@@ -39,5 +39,5 @@ Atributo                                Objeto
 7. Fiable                               True
 8. Capital                              1000000
 9. Horario de atención                  9am - 7pm
-10. Color                               Verde fosoforescente
+10. Color                               Verde fosforescente
 """
